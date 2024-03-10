@@ -10,7 +10,7 @@ KnowFlow is a Streamlit application that leverages the capabilities of Google Ge
 
 ## Requirements:
 
-- Python 3.x (with required libraries: `streamlit`, `streamlit-scrollable-textbox`, `PyPDF2`, `google-generativeai`, `langchain`, and `dotenv`)
+- Python 3.11 (with required libraries: `streamlit`, `streamlit-scrollable-textbox`, `PyPDF2`, `google-generativeai`, `langchain`, and `dotenv`)
 - A Google Cloud project with the Google Generative AI API enabled [Google Generative AI API](https://cloud.google.com/ai/generative-ai)
 
 ## Getting Started:
