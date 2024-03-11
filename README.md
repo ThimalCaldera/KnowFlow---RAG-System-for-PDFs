@@ -1,6 +1,6 @@
 # KnowFlow - Chat-Driven Document Navigation
 
-KnowFlow is a Streamlit application that leverages the capabilities of Google Generative AI and the KnowFlow library to enable users to interact with and extract information from PDFs through a conversational interface.
+KnowFlow is a Streamlit application that leverages the capabilities of Google Generative AI (Gemini LLM) to enable users to interact with and extract information from PDFs through a conversational interface.
 
 ## Key Features:
 
